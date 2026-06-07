@@ -15,32 +15,179 @@
   "notes": "from-claude-code.md",
   "notes_url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/from-claude-code.md",
   "photos": [
-    { "file": "photos/cover.jpg",       "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/cover.jpg",       "sujet": "couverture",  "legende": "L'Apparat — pâté-croûte de gibier, foie gras et truffe (image de couverture)" },
-    { "file": "photos/truffe.jpg",      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/truffe.jpg",      "sujet": "truffe",      "legende": "Truffe noire du Périgord, tracée à l'arbre d'origine" },
-    { "file": "photos/safran.jpg",      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/safran.jpg",      "sujet": "safran",      "legende": "Safran français, l'épice la plus rare" },
-    { "file": "photos/huile-olive.jpg", "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/huile-olive.jpg", "sujet": "huile-olive", "legende": "Huile d'olive de France, AOP de Provence" },
-    { "file": "photos/charcuterie.jpg", "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/charcuterie.jpg", "sujet": "charcuterie", "legende": "Charcuterie fine & pâté-croûte — Acte II · Le Feu" },
-    { "file": "photos/fromage.jpg",     "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/fromage.jpg",     "sujet": "fromage",     "legende": "Fromage de terroir affiné — Acte III · La Cave" },
-    { "file": "photos/beurre.jpg",      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/beurre.jpg",      "sujet": "beurre",      "legende": "Beurre d'alpage fumé au foin" },
-    { "file": "photos/sel.jpg",         "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/sel.jpg",         "sujet": "sel",         "legende": "Fleur de sel de Guérande" },
-    { "file": "photos/vigne.jpg",       "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/vigne.jpg",       "sujet": "vigne",       "legende": "Vignoble français — terroir & cave" },
-    { "file": "photos/fruit.jpg",       "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/fruit.jpg",       "sujet": "fruit",       "legende": "Fruits confits d'Apt — Acte IV · Le Fruit" },
-    { "file": "photos/patisserie.jpg",  "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/patisserie.jpg",  "sujet": "patisserie",  "legende": "Haute pâtisserie — Acte V · Le Sucre" },
-    { "file": "photos/chocolat.jpg",    "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/chocolat.jpg",    "sujet": "chocolat",    "legende": "Chocolat grand cru, bean-to-bar" },
-    { "file": "photos/mer.jpg",         "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/mer.jpg",         "sujet": "mer",         "legende": "La Mer Froide — coquillages de l'Iroise (cold-chain VIP)" },
-    { "file": "photos/caviar.jpg",      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/caviar.jpg",      "sujet": "caviar",      "legende": "Caviar d'Aquitaine IGP" },
-    { "file": "photos/matin.jpg",       "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/matin.jpg",       "sujet": "matin",       "legende": "Le Matin de Palace — petit-déjeuner d'hôtel" },
-    { "file": "photos/miel.jpg",        "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/miel.jpg",        "sujet": "miel",        "legende": "Miel de terroir, rucher certifié" },
-    { "file": "photos/fete.jpg",        "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/fete.jpg",        "sujet": "fete",        "legende": "La Fête — coffrets cadeaux & éditions collector" },
-    { "file": "photos/artisan-1.jpg",   "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-1.jpg",   "sujet": "artisan",     "legende": "Artisan — beurrière d'alpage" },
-    { "file": "photos/artisan-2.jpg",   "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-2.jpg",   "sujet": "artisan",     "legende": "Artisan — confiseur de fruits confits" },
-    { "file": "photos/artisan-3.jpg",   "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-3.jpg",   "sujet": "artisan",     "legende": "Artisan — affineur de fromages" },
-    { "file": "photos/artisan-4.jpg",   "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-4.jpg",   "sujet": "artisan",     "legende": "Artisan — pâtissière" },
-    { "file": "photos/artisan-5.jpg",   "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-5.jpg",   "sujet": "artisan",     "legende": "Artisan — trufficulteur" },
-    { "file": "photos/artisan-6.jpg",   "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-6.jpg",   "sujet": "artisan",     "legende": "Artisan — maître écailler" },
-    { "file": "photos/artisan-7.jpg",   "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-7.jpg",   "sujet": "artisan",     "legende": "Artisan — boulanger, longue fermentation" },
-    { "file": "photos/ambiance-1.jpg",  "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/ambiance-1.jpg",  "sujet": "ambiance",    "legende": "Ambiance — forêt d'automne (gibier)" },
-    { "file": "photos/ambiance-2.jpg",  "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/ambiance-2.jpg",  "sujet": "ambiance",    "legende": "Ambiance éditoriale" },
-    { "file": "photos/ambiance-3.jpg",  "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/ambiance-3.jpg",  "sujet": "ambiance",    "legende": "Ambiance — table & écrin" }
+    {
+      "file": "photos/cover.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/cover.jpg",
+      "sujet": "couverture",
+      "legende": "L'Apparat — pâté-croûte de gibier, foie gras et truffe (image de couverture)"
+    },
+    {
+      "file": "photos/truffe.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/truffe.jpg",
+      "sujet": "truffe",
+      "legende": "Truffe noire du Périgord, tracée à l'arbre d'origine"
+    },
+    {
+      "file": "photos/safran.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/safran.jpg",
+      "sujet": "safran",
+      "legende": "Safran français, l'épice la plus rare"
+    },
+    {
+      "file": "photos/huile-olive.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/huile-olive.jpg",
+      "sujet": "huile-olive",
+      "legende": "Huile d'olive de France, AOP de Provence"
+    },
+    {
+      "file": "photos/charcuterie.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/charcuterie.jpg",
+      "sujet": "charcuterie",
+      "legende": "Charcuterie fine & pâté-croûte — Acte II · Le Feu"
+    },
+    {
+      "file": "photos/fromage.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/fromage.jpg",
+      "sujet": "fromage",
+      "legende": "Fromage de terroir affiné — Acte III · La Cave"
+    },
+    {
+      "file": "photos/beurre.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/beurre.jpg",
+      "sujet": "beurre",
+      "legende": "Beurre d'alpage fumé au foin"
+    },
+    {
+      "file": "photos/sel.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/sel.jpg",
+      "sujet": "sel",
+      "legende": "Fleur de sel de Guérande"
+    },
+    {
+      "file": "photos/vigne.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/vigne.jpg",
+      "sujet": "vigne",
+      "legende": "Vignoble français — terroir & cave"
+    },
+    {
+      "file": "photos/fruit.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/fruit.jpg",
+      "sujet": "fruit",
+      "legende": "Fruits confits d'Apt — Acte IV · Le Fruit"
+    },
+    {
+      "file": "photos/patisserie.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/patisserie.jpg",
+      "sujet": "patisserie",
+      "legende": "Haute pâtisserie — Acte V · Le Sucre"
+    },
+    {
+      "file": "photos/chocolat.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/chocolat.jpg",
+      "sujet": "chocolat",
+      "legende": "Chocolat grand cru, bean-to-bar"
+    },
+    {
+      "file": "photos/mer.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/mer.jpg",
+      "sujet": "mer",
+      "legende": "La Mer Froide — coquillages de l'Iroise (cold-chain VIP)"
+    },
+    {
+      "file": "photos/caviar.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/caviar.jpg",
+      "sujet": "caviar",
+      "legende": "Caviar d'Aquitaine IGP"
+    },
+    {
+      "file": "photos/matin.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/matin.jpg",
+      "sujet": "matin",
+      "legende": "Le Matin de Palace — petit-déjeuner d'hôtel"
+    },
+    {
+      "file": "photos/miel.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/miel.jpg",
+      "sujet": "miel",
+      "legende": "Miel de terroir, rucher certifié"
+    },
+    {
+      "file": "photos/fete.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/fete.jpg",
+      "sujet": "fete",
+      "legende": "La Fête — coffrets cadeaux & éditions collector"
+    },
+    {
+      "file": "photos/artisan-1.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-1.jpg",
+      "sujet": "artisan",
+      "legende": "Artisan — beurrière d'alpage"
+    },
+    {
+      "file": "photos/artisan-2.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-2.jpg",
+      "sujet": "artisan",
+      "legende": "Artisan — confiseur de fruits confits"
+    },
+    {
+      "file": "photos/artisan-3.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-3.jpg",
+      "sujet": "artisan",
+      "legende": "Artisan — affineur de fromages"
+    },
+    {
+      "file": "photos/artisan-4.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-4.jpg",
+      "sujet": "artisan",
+      "legende": "Artisan — pâtissière"
+    },
+    {
+      "file": "photos/artisan-5.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-5.jpg",
+      "sujet": "artisan",
+      "legende": "Artisan — trufficulteur"
+    },
+    {
+      "file": "photos/artisan-6.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-6.jpg",
+      "sujet": "artisan",
+      "legende": "Artisan — maître écailler"
+    },
+    {
+      "file": "photos/artisan-7.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/artisan-7.jpg",
+      "sujet": "artisan",
+      "legende": "Artisan — boulanger, longue fermentation"
+    },
+    {
+      "file": "photos/ambiance-1.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/ambiance-1.jpg",
+      "sujet": "ambiance",
+      "legende": "Ambiance — forêt d'automne (gibier)"
+    },
+    {
+      "file": "photos/ambiance-2.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/ambiance-2.jpg",
+      "sujet": "ambiance",
+      "legende": "Ambiance éditoriale"
+    },
+    {
+      "file": "photos/ambiance-3.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/ambiance-3.jpg",
+      "sujet": "ambiance",
+      "legende": "Ambiance — table & écrin"
+    },
+    {
+      "file": "photos/art-table.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/art-table.jpg",
+      "sujet": "art-table",
+      "legende": "L'Art de la Table — cristal, porcelaine, orfèvrerie, lin (Acte IX)"
+    },
+    {
+      "file": "photos/cristal.jpg",
+      "url": "https://raw.githubusercontent.com/cedricmary1973/epicurefrance-deck-bridge/main/photos/cristal.jpg",
+      "sujet": "cristal",
+      "legende": "Cristal taillé — l'éclat de la table française"
+    }
   ]
 }
